@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm Tuan Tran :computer::boy::wave:
 
-<!--
-**tuantrann/tuantrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year Computer Science and Math student at The University of Houston at Texas, who is passionate about backend developent and data science :bar_chart:. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on any MERN project.
+- 💬 Talk to me about anything.
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tmtran38@uh.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tmtran38@uh.edu "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-TuanTran-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-tran26/ "Connect on LinkedIn")
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+⭐️ From [TuanTran](https://github.com/tuantrann)
