@@ -1,6 +1,6 @@
 ## Hi there, I'm Tuan Tran :computer::boy::wave:
 
-I am a 3rd-year Computer Science student at The University of Houston at Texas, who is passionate about backend development, cloud computing and data science :bar_chart:. 
+I am a 3rd-year Computer Science student at The University of Houston at Texas, who is passionate about backend development, cloud computing and machine learning :bar_chart:. 
 
 - 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on any MERN project.
