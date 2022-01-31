@@ -1,6 +1,6 @@
 ## Hi there, I'm Tuan Tran :computer::boy::wave:
 
-I am a 3rd-year Computer Science student at The University of Houston at Texas, who is passionate about backend development, cloud computing, machine learning and trading. :bar_chart:. 
+I am in my final year of my bachelor degree in University of Houston. I am passionate about backend development, cloud computing, machine learning and trading. :bar_chart:. 
 
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on any Rust project.
